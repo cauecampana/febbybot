@@ -1,0 +1,79 @@
+{
+  "window_title_keyword": "Tibia",
+  "hp_bar_region": {
+    "left": 797,
+    "top": 354,
+    "width": 32,
+    "height": 139
+  },
+  "mana_bar_region": {
+    "left": 1077,
+    "top": 340,
+    "width": 36,
+    "height": 140
+  },
+  "loop_delay_seconds": 0.05,
+  "input_method": "keyboard",
+  "hsv_ranges": [
+    {
+      "min": [
+        0,
+        100,
+        100
+      ],
+      "max": [
+        85,
+        255,
+        255
+      ]
+    },
+    {
+      "min": [
+        160,
+        100,
+        100
+      ],
+      "max": [
+        180,
+        255,
+        255
+      ]
+    }
+  ],
+  "mana_hsv_ranges": [
+    {
+      "min": [
+        90,
+        100,
+        100
+      ],
+      "max": [
+        130,
+        255,
+        255
+      ]
+    }
+  ],
+  "healing_rules": [
+    {
+      "name": "Cura de Emergência (Urgente)",
+      "max_hp_percentage": 40,
+      "hotkey": "F1",
+      "cooldown_ms": 1000
+    },
+    {
+      "name": "Cura Leve (Manutenção)",
+      "max_hp_percentage": 90,
+      "hotkey": "F2",
+      "cooldown_ms": 500
+    }
+  ],
+  "mana_rules": [
+    {
+      "name": "Usar Mana Potion",
+      "max_mana_percentage": 70,
+      "hotkey": "F3",
+      "cooldown_ms": 1000
+    }
+  ]
+}

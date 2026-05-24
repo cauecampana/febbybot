@@ -1,0 +1,302 @@
+2026-05-23 19:45:05 [WARNING] febbyBot: Executando sem privilégios de Administrador. Envio de teclas pode falhar.
+2026-05-23 19:45:05 [INFO] febbyBot: Iniciando febbyBot...
+2026-05-23 19:45:05 [INFO] febbyBot: Configurações carregadas com sucesso!
+2026-05-23 19:45:05 [INFO] febbyBot: Módulo de Captura (MSS) inicializado com sucesso.
+2026-05-23 19:45:05 [INFO] febbyBot: Módulo HPDetector inicializado com sucesso.
+2026-05-23 19:45:05 [INFO] febbyBot: ActionHandler inicializado utilizando o método: 'keyboard'
+2026-05-23 19:45:05 [INFO] febbyBot: Engine de Decisão estruturada com 2 regras de cura.
+2026-05-23 19:45:05 [INFO] febbyBot:   -> Regra [Cura de Emergência (Urgente)]: Ativa se HP <= 40% | Hotkey: F1 | Cooldown: 1000ms
+2026-05-23 19:45:05 [INFO] febbyBot:   -> Regra [Cura Leve (Manutenção)]: Ativa se HP <= 85% | Hotkey: F2 | Cooldown: 500ms
+2026-05-23 19:45:05 [INFO] febbyBot: Cura executada: Cura de Emergência (Urgente) (Tecla F1, HP 0.0%)
+2026-05-23 19:45:05 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 19:45:06 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 19:45:06 [INFO] febbyBot: Cura executada: Cura de Emergência (Urgente) (Tecla F1, HP 0.0%)
+2026-05-23 19:45:06 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 19:45:07 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 19:45:07 [INFO] febbyBot: Cura executada: Cura de Emergência (Urgente) (Tecla F1, HP 0.0%)
+2026-05-23 19:45:07 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 19:45:08 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 19:45:08 [INFO] febbyBot: Cura executada: Cura de Emergência (Urgente) (Tecla F1, HP 0.0%)
+2026-05-23 19:45:08 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 19:45:09 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 19:45:09 [INFO] febbyBot: Cura executada: Cura de Emergência (Urgente) (Tecla F1, HP 0.0%)
+2026-05-23 19:45:09 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 19:45:10 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 19:45:10 [INFO] febbyBot: Cura executada: Cura de Emergência (Urgente) (Tecla F1, HP 0.0%)
+2026-05-23 19:45:10 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 19:45:11 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 19:45:11 [INFO] febbyBot: Cura executada: Cura de Emergência (Urgente) (Tecla F1, HP 0.0%)
+2026-05-23 19:45:11 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 19:45:12 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 19:45:12 [INFO] febbyBot: Cura executada: Cura de Emergência (Urgente) (Tecla F1, HP 0.0%)
+2026-05-23 19:45:12 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 19:45:13 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 19:45:13 [INFO] febbyBot: Cura executada: Cura de Emergência (Urgente) (Tecla F1, HP 0.0%)
+2026-05-23 19:45:14 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 19:45:14 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 19:45:14 [INFO] febbyBot: Cura executada: Cura de Emergência (Urgente) (Tecla F1, HP 0.0%)
+2026-05-23 19:45:15 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 19:45:15 [INFO] febbyBot: Bot interrompido manualmente pelo terminal.
+2026-05-23 19:45:15 [INFO] febbyBot: Instância do MSS fechada.
+2026-05-23 19:45:15 [INFO] febbyBot: BotEngine finalizado com segurança.
+2026-05-23 19:48:39 [WARNING] febbyBot: Executando sem privilégios de Administrador. Envio de teclas pode falhar.
+2026-05-23 19:48:39 [INFO] febbyBot: Iniciando febbyBot...
+2026-05-23 19:48:39 [INFO] febbyBot: Configurações carregadas com sucesso!
+2026-05-23 19:48:39 [INFO] febbyBot: Módulo de Captura (MSS) inicializado com sucesso.
+2026-05-23 19:48:39 [INFO] febbyBot: Módulo HPDetector inicializado com sucesso.
+2026-05-23 19:48:39 [INFO] febbyBot: ActionHandler inicializado utilizando o método: 'keyboard'
+2026-05-23 19:48:39 [INFO] febbyBot: Engine de Decisão estruturada com 2 regras de cura.
+2026-05-23 19:48:39 [INFO] febbyBot:   -> Regra [Cura de Emergência (Urgente)]: Ativa se HP <= 40% | Hotkey: F1 | Cooldown: 1000ms
+2026-05-23 19:48:39 [INFO] febbyBot:   -> Regra [Cura Leve (Manutenção)]: Ativa se HP <= 85% | Hotkey: F2 | Cooldown: 500ms
+2026-05-23 19:51:05 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 84.9%)
+2026-05-23 19:51:06 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.2%)
+2026-05-23 19:51:06 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.2%)
+2026-05-23 19:51:07 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.2%)
+2026-05-23 19:51:08 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 76.2%)
+2026-05-23 19:51:08 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 76.2%)
+2026-05-23 19:51:09 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 76.1%)
+2026-05-23 19:51:09 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 75.9%)
+2026-05-23 19:51:10 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 71.3%)
+2026-05-23 19:51:10 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 71.1%)
+2026-05-23 19:51:11 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 70.9%)
+2026-05-23 19:51:11 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 70.8%)
+2026-05-23 19:51:12 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 68.3%)
+2026-05-23 19:51:12 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 68.1%)
+2026-05-23 19:51:13 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 67.1%)
+2026-05-23 19:51:13 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 67.1%)
+2026-05-23 19:51:14 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 61.3%)
+2026-05-23 19:51:14 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 63.1%)
+2026-05-23 19:51:15 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 62.3%)
+2026-05-23 19:51:16 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 65.0%)
+2026-05-23 19:51:16 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 61.8%)
+2026-05-23 19:51:17 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 64.5%)
+2026-05-23 19:51:17 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 64.3%)
+2026-05-23 19:51:18 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 62.6%)
+2026-05-23 19:51:18 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 62.5%)
+2026-05-23 19:51:19 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 62.3%)
+2026-05-23 19:51:19 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 62.3%)
+2026-05-23 19:51:20 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 62.0%)
+2026-05-23 19:51:20 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 61.6%)
+2026-05-23 19:51:21 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 64.3%)
+2026-05-23 19:51:21 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 64.1%)
+2026-05-23 19:51:22 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 64.1%)
+2026-05-23 19:51:22 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 64.0%)
+2026-05-23 19:51:23 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 66.4%)
+2026-05-23 19:51:24 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 62.6%)
+2026-05-23 19:51:24 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 65.0%)
+2026-05-23 19:51:25 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 64.8%)
+2026-05-23 19:51:25 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 66.4%)
+2026-05-23 19:51:26 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 60.6%)
+2026-05-23 19:51:26 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 63.1%)
+2026-05-23 19:51:27 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 63.0%)
+2026-05-23 19:51:27 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 64.8%)
+2026-05-23 19:51:28 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 58.1%)
+2026-05-23 19:51:28 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 58.0%)
+2026-05-23 19:51:29 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 57.1%)
+2026-05-23 19:51:29 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 57.1%)
+2026-05-23 19:51:30 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 51.2%)
+2026-05-23 19:51:30 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 51.2%)
+2026-05-23 19:51:31 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 51.0%)
+2026-05-23 19:51:32 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 51.0%)
+2026-05-23 19:51:32 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 51.0%)
+2026-05-23 19:51:33 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 51.0%)
+2026-05-23 19:51:33 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 51.0%)
+2026-05-23 19:51:34 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 51.0%)
+2026-05-23 19:51:34 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 50.8%)
+2026-05-23 19:51:35 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 50.8%)
+2026-05-23 19:51:35 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 50.8%)
+2026-05-23 19:51:36 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 50.8%)
+2026-05-23 19:51:36 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 50.8%)
+2026-05-23 19:51:37 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 70.6%)
+2026-05-23 19:51:37 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 70.6%)
+2026-05-23 19:52:15 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 84.1%)
+2026-05-23 19:52:19 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 82.9%)
+2026-05-23 19:52:21 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 83.4%)
+2026-05-23 19:52:25 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 85.0%)
+2026-05-23 19:52:28 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 85.0%)
+2026-05-23 19:52:31 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 81.7%)
+2026-05-23 19:52:31 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 81.6%)
+2026-05-23 19:52:32 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 81.6%)
+2026-05-23 19:52:32 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 81.6%)
+2026-05-23 19:52:33 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 81.4%)
+2026-05-23 19:52:33 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 81.2%)
+2026-05-23 19:52:34 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 81.2%)
+2026-05-23 19:52:34 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 81.1%)
+2026-05-23 19:52:35 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 81.1%)
+2026-05-23 19:52:36 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.9%)
+2026-05-23 19:52:36 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.9%)
+2026-05-23 19:52:37 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.9%)
+2026-05-23 19:52:37 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.7%)
+2026-05-23 19:52:38 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.7%)
+2026-05-23 19:52:38 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.7%)
+2026-05-23 19:52:39 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.7%)
+2026-05-23 19:52:39 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.7%)
+2026-05-23 19:52:40 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.7%)
+2026-05-23 19:52:40 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.7%)
+2026-05-23 19:52:41 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.6%)
+2026-05-23 19:52:41 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.6%)
+2026-05-23 19:52:42 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.6%)
+2026-05-23 19:52:42 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.6%)
+2026-05-23 19:52:43 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.6%)
+2026-05-23 19:52:44 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.6%)
+2026-05-23 19:52:44 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.6%)
+2026-05-23 19:52:45 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.4%)
+2026-05-23 19:52:45 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.4%)
+2026-05-23 19:52:46 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.4%)
+2026-05-23 19:52:46 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.4%)
+2026-05-23 19:52:47 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.4%)
+2026-05-23 19:52:47 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.4%)
+2026-05-23 19:52:48 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.4%)
+2026-05-23 19:52:48 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.4%)
+2026-05-23 19:52:49 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.2%)
+2026-05-23 19:52:49 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.2%)
+2026-05-23 19:52:50 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.2%)
+2026-05-23 19:52:50 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.2%)
+2026-05-23 19:52:51 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.2%)
+2026-05-23 19:52:52 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.2%)
+2026-05-23 19:52:52 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.2%)
+2026-05-23 19:52:53 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.2%)
+2026-05-23 19:52:53 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.2%)
+2026-05-23 19:52:54 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 79.2%)
+2026-05-23 19:53:02 [INFO] febbyBot: Cura executada: Cura Leve (Manutenção) (Tecla F2, HP 84.4%)
+2026-05-23 19:54:31 [INFO] febbyBot: Bot interrompido manualmente pelo terminal.
+2026-05-23 19:54:31 [INFO] febbyBot: Instância do MSS fechada.
+2026-05-23 19:54:31 [INFO] febbyBot: BotEngine finalizado com segurança.
+2026-05-23 20:01:27 [WARNING] febbyBot: Executando sem privilégios de Administrador. Envio de teclas pode falhar.
+2026-05-23 20:01:27 [INFO] febbyBot: Iniciando febbyBot...
+2026-05-23 20:01:27 [INFO] febbyBot: Configurações carregadas com sucesso!
+2026-05-23 20:01:27 [INFO] febbyBot: Módulo de Captura (MSS) inicializado com sucesso.
+2026-05-23 20:01:27 [INFO] febbyBot: Módulo BarDetector (HP) inicializado com sucesso.
+2026-05-23 20:01:27 [INFO] febbyBot: Módulo BarDetector (Mana) inicializado com sucesso.
+2026-05-23 20:01:27 [INFO] febbyBot: ActionHandler inicializado utilizando o método: 'keyboard'
+2026-05-23 20:01:27 [INFO] febbyBot: Engine estruturada de cura paralela:
+2026-05-23 20:01:27 [INFO] febbyBot:   -> Regras de HP (2):
+2026-05-23 20:01:27 [INFO] febbyBot:      * [Cura de Emergência (Urgente)]: HP <= 40% | Hotkey: F1 | Cooldown: 1000ms
+2026-05-23 20:01:27 [INFO] febbyBot:      * [Cura Leve (Manutenção)]: HP <= 85% | Hotkey: F2 | Cooldown: 500ms
+2026-05-23 20:01:27 [INFO] febbyBot:   -> Regras de Mana (1):
+2026-05-23 20:01:27 [INFO] febbyBot:      * [Usar Mana Potion]: Mana <= 70% | Hotkey: F3 | Cooldown: 1000ms
+2026-05-23 20:01:48 [INFO] febbyBot: Cura de HP executada: Cura de Emergência (Urgente) (Tecla F1, HP 0.0%)
+2026-05-23 20:01:48 [INFO] febbyBot: Cura de Mana executada: Usar Mana Potion (Tecla F3, Mana 0.0%)
+2026-05-23 20:01:48 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 20:01:49 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 20:01:49 [INFO] febbyBot: Cura de HP executada: Cura de Emergência (Urgente) (Tecla F1, HP 0.0%)
+2026-05-23 20:01:49 [INFO] febbyBot: Cura de Mana executada: Usar Mana Potion (Tecla F3, Mana 0.0%)
+2026-05-23 20:01:49 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 20:01:50 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 20:01:50 [INFO] febbyBot: Cura de HP executada: Cura de Emergência (Urgente) (Tecla F1, HP 0.0%)
+2026-05-23 20:01:50 [INFO] febbyBot: Cura de Mana executada: Usar Mana Potion (Tecla F3, Mana 0.0%)
+2026-05-23 20:01:50 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 20:01:51 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 20:01:51 [INFO] febbyBot: Cura de HP executada: Cura de Emergência (Urgente) (Tecla F1, HP 0.0%)
+2026-05-23 20:01:51 [INFO] febbyBot: Cura de Mana executada: Usar Mana Potion (Tecla F3, Mana 0.0%)
+2026-05-23 20:01:51 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 20:01:52 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 20:01:52 [INFO] febbyBot: Cura de HP executada: Cura de Emergência (Urgente) (Tecla F1, HP 0.0%)
+2026-05-23 20:01:52 [INFO] febbyBot: Cura de Mana executada: Usar Mana Potion (Tecla F3, Mana 0.0%)
+2026-05-23 20:01:53 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 20:01:53 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 20:01:53 [INFO] febbyBot: Cura de HP executada: Cura de Emergência (Urgente) (Tecla F1, HP 0.0%)
+2026-05-23 20:01:53 [INFO] febbyBot: Cura de Mana executada: Usar Mana Potion (Tecla F3, Mana 0.0%)
+2026-05-23 20:01:54 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 0.0%)
+2026-05-23 20:01:54 [INFO] febbyBot: Bot interrompido manualmente pelo terminal.
+2026-05-23 20:01:54 [INFO] febbyBot: Instância do MSS fechada.
+2026-05-23 20:01:54 [INFO] febbyBot: BotEngine finalizado com segurança.
+2026-05-23 20:34:19 [WARNING] febbyBot: Executando sem privilégios de Administrador. Envio de teclas pode falhar.
+2026-05-23 20:34:19 [INFO] febbyBot: Iniciando febbyBot...
+2026-05-23 20:34:19 [INFO] febbyBot: Configurações carregadas com sucesso!
+2026-05-23 20:34:19 [WARNING] febbyBot: 3 janelas encontradas com 'Tibia':
+2026-05-23 20:34:19 [WARNING] febbyBot:   [0] 'Bot Tibia Vibe Coding - Brave' (exe: desconhecido, hwnd=6817334)
+2026-05-23 20:34:19 [WARNING] febbyBot:   [1] 'Visual Tibia Bot Development' (exe: desconhecido, hwnd=8914632)
+2026-05-23 20:34:19 [WARNING] febbyBot:   [2] 'Tibia - Febbynist - SAN 2 - Optional-PvP' (exe: desconhecido, hwnd=9180574)
+2026-05-23 20:34:19 [WARNING] febbyBot: Não foi possível identificar automaticamente a janela do jogo. Usando: 'Tibia - Febbynist - SAN 2 - Optional-PvP'. Se errado, ajuste 'window_title_keyword' no config.json.
+2026-05-23 20:34:19 [INFO] febbyBot: Janela selecionada: 'Tibia - Febbynist - SAN 2 - Optional-PvP' (hwnd=9180574)
+2026-05-23 20:34:19 [INFO] febbyBot: WindowCapturer inicializado para janela contendo: 'Tibia'
+2026-05-23 20:34:19 [INFO] febbyBot: Módulo BarDetector (HP) inicializado com sucesso.
+2026-05-23 20:34:19 [INFO] febbyBot: Módulo BarDetector (Mana) inicializado com sucesso.
+2026-05-23 20:34:19 [INFO] febbyBot: ActionHandler inicializado utilizando o método: 'keyboard'
+2026-05-23 20:34:19 [INFO] febbyBot: Engine estruturada de cura paralela:
+2026-05-23 20:34:19 [INFO] febbyBot:   -> Regras de HP (2):
+2026-05-23 20:34:19 [INFO] febbyBot:      * [Cura de Emergência (Urgente)]: HP <= 40% | Hotkey: F1 | Cooldown: 1000ms
+2026-05-23 20:34:19 [INFO] febbyBot:      * [Cura Leve (Manutenção)]: HP <= 85% | Hotkey: F2 | Cooldown: 500ms
+2026-05-23 20:34:19 [INFO] febbyBot:   -> Regras de Mana (1):
+2026-05-23 20:34:19 [INFO] febbyBot:      * [Usar Mana Potion]: Mana <= 70% | Hotkey: F3 | Cooldown: 1000ms
+2026-05-23 20:34:50 [INFO] febbyBot: Bot interrompido manualmente pelo terminal.
+2026-05-23 20:34:50 [INFO] febbyBot: WindowCapturer encerrado.
+2026-05-23 20:34:50 [INFO] febbyBot: BotEngine finalizado com segurança.
+2026-05-23 20:37:19 [WARNING] febbyBot: Executando sem privilégios de Administrador. Envio de teclas pode falhar.
+2026-05-23 20:37:19 [INFO] febbyBot: Iniciando febbyBot...
+2026-05-23 20:37:19 [INFO] febbyBot: Configurações carregadas com sucesso!
+2026-05-23 20:37:19 [INFO] febbyBot: Janela selecionada: 'Tibia - Febbynist - SAN 2 - Optional-PvP' (hwnd=9180574)
+2026-05-23 20:37:19 [INFO] febbyBot: WindowCapturer inicializado para janela contendo: 'Tibia'
+2026-05-23 20:37:19 [INFO] febbyBot: Módulo BarDetector (HP) inicializado com sucesso.
+2026-05-23 20:37:19 [INFO] febbyBot: Módulo BarDetector (Mana) inicializado com sucesso.
+2026-05-23 20:37:19 [INFO] febbyBot: ActionHandler inicializado utilizando o método: 'keyboard'
+2026-05-23 20:37:19 [INFO] febbyBot: Engine estruturada de cura paralela:
+2026-05-23 20:37:19 [INFO] febbyBot:   -> Regras de HP (2):
+2026-05-23 20:37:19 [INFO] febbyBot:      * [Cura de Emergência (Urgente)]: HP <= 40% | Hotkey: F1 | Cooldown: 1000ms
+2026-05-23 20:37:19 [INFO] febbyBot:      * [Cura Leve (Manutenção)]: HP <= 90% | Hotkey: F2 | Cooldown: 500ms
+2026-05-23 20:37:19 [INFO] febbyBot:   -> Regras de Mana (1):
+2026-05-23 20:37:19 [INFO] febbyBot:      * [Usar Mana Potion]: Mana <= 70% | Hotkey: F3 | Cooldown: 1000ms
+2026-05-23 20:39:25 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 87.8%)
+2026-05-23 20:39:25 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 86.4%)
+2026-05-23 20:39:26 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 86.4%)
+2026-05-23 20:39:26 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 82.6%)
+2026-05-23 20:39:27 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 81.2%)
+2026-05-23 20:39:28 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 79.9%)
+2026-05-23 20:39:28 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 76.0%)
+2026-05-23 20:39:29 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 74.7%)
+2026-05-23 20:39:29 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 70.7%)
+2026-05-23 20:39:30 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 66.8%)
+2026-05-23 20:39:31 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 65.5%)
+2026-05-23 20:39:31 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 61.5%)
+2026-05-23 20:39:32 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 60.1%)
+2026-05-23 20:39:32 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 56.3%)
+2026-05-23 20:39:33 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 54.9%)
+2026-05-23 20:39:34 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 50.9%)
+2026-05-23 20:39:34 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 49.7%)
+2026-05-23 20:39:35 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 45.7%)
+2026-05-23 20:39:35 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 44.4%)
+2026-05-23 20:39:36 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 40.5%)
+2026-05-23 20:39:37 [INFO] febbyBot: Cura de HP executada: Cura de Emergência (Urgente) (Tecla F1, HP 39.2%)
+2026-05-23 20:39:37 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 39.2%)
+2026-05-23 20:39:37 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 54.6%)
+2026-05-23 20:39:38 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 54.6%)
+2026-05-23 20:39:39 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 54.6%)
+2026-05-23 20:39:39 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 54.6%)
+2026-05-23 20:39:40 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 54.6%)
+2026-05-23 20:39:40 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 54.6%)
+2026-05-23 20:39:41 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 54.6%)
+2026-05-23 20:39:42 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 54.6%)
+2026-05-23 20:39:42 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 54.6%)
+2026-05-23 20:39:43 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 54.6%)
+2026-05-23 20:39:43 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 54.6%)
+2026-05-23 20:39:44 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 54.6%)
+2026-05-23 20:39:45 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 54.6%)
+2026-05-23 20:39:45 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 54.6%)
+2026-05-23 20:39:46 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 54.6%)
+2026-05-23 20:39:46 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 60.1%)
+2026-05-23 20:39:47 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 60.1%)
+2026-05-23 20:39:48 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 68.0%)
+2026-05-23 20:39:48 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 68.0%)
+2026-05-23 20:39:49 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 75.9%)
+2026-05-23 20:39:49 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 75.9%)
+2026-05-23 20:39:50 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 75.9%)
+2026-05-23 20:39:51 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 83.4%)
+2026-05-23 20:39:51 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 83.4%)
+2026-05-23 20:39:57 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 89.6%)
+2026-05-23 20:39:57 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 89.6%)
+2026-05-23 20:39:58 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 89.6%)
+2026-05-23 20:39:58 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 89.6%)
+2026-05-23 20:39:59 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 89.6%)
+2026-05-23 20:40:00 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 89.6%)
+2026-05-23 20:40:00 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 89.6%)
+2026-05-23 20:40:01 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 89.6%)
+2026-05-23 20:40:01 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 89.6%)
+2026-05-23 20:40:02 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 89.6%)
+2026-05-23 20:40:03 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 89.6%)
+2026-05-23 20:40:03 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 89.6%)
+2026-05-23 20:40:04 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 89.6%)
+2026-05-23 20:40:04 [INFO] febbyBot: Cura de HP executada: Cura Leve (Manutenção) (Tecla F2, HP 89.6%)
+2026-05-23 20:42:30 [INFO] febbyBot: Bot interrompido manualmente pelo terminal.
+2026-05-23 20:42:30 [INFO] febbyBot: WindowCapturer encerrado.
+2026-05-23 20:42:30 [INFO] febbyBot: BotEngine finalizado com segurança.
